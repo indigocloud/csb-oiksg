@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://indigocloud.github.io/csb-oiksg/static/css/main.6244e003.chunk.css",
+    "main.js": "https://indigocloud.github.io/csb-oiksg/static/js/main.c950586c.chunk.js",
+    "main.js.map": "https://indigocloud.github.io/csb-oiksg/static/js/main.c950586c.chunk.js.map",
+    "runtime-main.js": "https://indigocloud.github.io/csb-oiksg/static/js/runtime-main.c4796f1f.js",
+    "runtime-main.js.map": "https://indigocloud.github.io/csb-oiksg/static/js/runtime-main.c4796f1f.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://indigocloud.github.io/csb-oiksg/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://indigocloud.github.io/csb-oiksg/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://indigocloud.github.io/csb-oiksg/index.html",
+    "static/css/main.6244e003.chunk.css.map": "https://indigocloud.github.io/csb-oiksg/static/css/main.6244e003.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://indigocloud.github.io/csb-oiksg/static/js/2.eed3c6af.chunk.js.LICENSE.txt",
+    "static/media/sunCloud.14635eeb.png": "https://indigocloud.github.io/csb-oiksg/static/media/sunCloud.14635eeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4796f1f.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.6244e003.chunk.css",
+    "static/js/main.c950586c.chunk.js"
+  ]
+}
